@@ -1,0 +1,15 @@
+{
+
+  "host_dict": {
+
+	"10.30.7.174": {
+		"user": "root",
+		"password": "XXXXXXX"
+	},
+	"10.30.7.172": {
+		"user": "root",
+		"password": "XXXXXXX"
+	}
+  }
+
+}
