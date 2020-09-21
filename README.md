@@ -9,3 +9,7 @@ Repository of simple applications developed to operationaly monitor Pensando DSC
 5. The Html pages will be generated under the location specified in the python scripts under pen-apps/scripts folder. Move the dashboard directory under /var/www/html/ directory or equivalent based on your webserver configuration
 6. In Host Managed Mode, you can add host_mgmt_oper_metrics.py script to your cronjob to run every 5 mins to update your dashboards.  
 7. In Network Managed mode, please add the network_mgmt_oper_metrics.py script to your cronjob to run every 5 mins to update your dashboards.
+
+# Demo
+
+[![Penapps demo](Documents/pensando-apps.gif)](Documents/penapps-recording.mov)
