@@ -12,4 +12,4 @@ Repository of simple applications developed to operationaly monitor Pensando DSC
 
 # Demo
 
-[![Penapps demo](Documents/pensando-apps.gif)](Documents/penapps-recording.mov)
+[![Penapps demo](demo/pensando-apps.gif)](demo/penapps-recording.mov)
