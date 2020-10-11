@@ -28,6 +28,9 @@ input_file           = '../input/network_managed_input.json'
 # you specify below on the server where we are executing this script
 cert_file               = '/home/venksrin/.ssh/psm_token.pem'
 
+# Private key file to ssh to dsc
+private_key_file         = '/home/venksrin/.ssh/id_rsa'
+
 # Duration of logs to analyze for firewall logs in minutes
 fw_log_duration         = 60
 
@@ -72,7 +75,7 @@ for dsc_id in dsc_config.keys():
 
 
 # Connect to the DSCs via ssh in parallel
-phdl = ParallelSSHClient(dsc_ip_list, user='root', password=None )
+phdl = ParallelSSHClient(dsc_ip_list, user='root', pkey=private_key_file )
 
 
 
