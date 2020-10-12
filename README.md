@@ -16,3 +16,7 @@ Repository of simple applications developed to operationaly monitor Pensando DSC
 
 # Snapshots
 [!ScreenShot](demo/Link_capacity_plannning.png?raw=true "Link Capacity Planning")
+
+<div align="center">
+  <img src="demo/Flow_table_view_chord_diagram.png"</img>
+</div>
