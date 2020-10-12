@@ -21,4 +21,10 @@ Repository of simple applications developed to operationaly monitor Pensando DSC
   <img src="demo/Link_capacity_plannning.png"</img>
   <h2>Flow Table Chord Diagram</h2>
   <img src="demo/Flow_table_view_chord_diagram.png"</img>
+  <h2>Firewall Connections per second summary</h2>
+  <img src="demo/CPS_summary_view.png"</img>
+  <h2>Stateful Firewall Drop statistics</h2>
+  <img src="demo/Firewall_drop_statistics.png"</img>
+  <h2>DSC Summary view</h2>
+  <img src="demo/DSC_summary_view.png"</img>
 </div>
