@@ -13,3 +13,6 @@ Repository of simple applications developed to operationaly monitor Pensando DSC
 # Demo
 
 [![Penapps demo](demo/pensando-apps.gif)](demo/penapps-recording.mov)
+
+# Snapshots
+[!Alt text][/../demo/Link_capacity_plannning.png?raw=true "Link Capacity Planning")
