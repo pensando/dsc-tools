@@ -10,6 +10,9 @@ Repository of simple tools developed leveraging the DSC APIs and commands to ope
 6. In Host Managed Mode, you can add host_mgmt_oper_metrics.py script to your cronjob to run every 5 mins to update your dashboards.  
 7. In Network Managed mode, please add the network_mgmt_oper_metrics.py script to your cronjob to run every 5 mins to update your dashboards.
 
+# Support Policy
+The code and templates in the repo are released under an as-is, best effort, support policy. These scripts should be seen as community supported and Pensando will contribute our expertise as and when possible. We do not provide technical support or help in using or troubleshooting the components of the project through our normal support options. Unless explicitly tagged, all projects or work posted in our GitHub repository (at https://github.com/Pensando) or sites other than our official Downloads page on https://support.pensando.io are provided under the best effort policy.
+
 # Demo
 
 [![Penapps demo](demo/pensando-apps.gif)](demo/penapps-recording.mov)
