@@ -1,5 +1,5 @@
-# pen-apps
-Repository of simple applications developed to operationaly monitor Pensando DSCs in different managed modes - Host, Network Managed modes.
+# dsc-tools
+Repository of simple tools developed leveraging the DSC APIs and commands to operationaly monitor Pensando DSCs in different managed modes - Host, Network Managed modes.
 
 # Install Procedure
 1. Do a Git Clone of the repository
